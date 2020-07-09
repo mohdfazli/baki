@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.bakifaz.mobile" version="1.1">
+  <name>Baki</name>
+  <description>Bakifaz</description>
+  <icon src="icon.png" />
+</widget>
